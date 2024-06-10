@@ -20,6 +20,8 @@ This means that in the absence of a clip, the model gives instructions to the Ks
 
 <h2>Now let's look at the prompt injection </h2>
 
+<h3><b>IMPORTANT INFORMATION : These examples are made with models trained with few steps. Regular models don't give such good results. .</b></h3>
+
 ![workflow-6](https://github.com/Creative-comfyUI/prompt_injection/assets/166729777/611cc6cb-7980-4ce1-91b5-07a4920749b0)
 
 
