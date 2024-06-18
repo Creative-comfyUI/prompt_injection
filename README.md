@@ -20,7 +20,7 @@ This means that in the absence of a clip, the model gives instructions to the Ks
 
 <h2>Now let's look at the prompt injection </h2>
 
-<b>IMPORTANT INFORMATION : These examples are made with models trained with few steps as Turbo. Regular models don't give such good results. .</b>
+<b>IMPORTANT INFORMATION : These examples are made with models trained with few steps as Turbo (sdxl-lightning-8 steps). Regular models don't give such good results. See part 2 understanding how image is built .</b>
 
 ![workflow-6](https://github.com/Creative-comfyUI/prompt_injection/assets/166729777/611cc6cb-7980-4ce1-91b5-07a4920749b0)
 
